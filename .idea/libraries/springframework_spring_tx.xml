@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="springframework.spring.tx" type="repository">
+    <properties maven-id="org.springframework:spring-tx:5.3.9" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.3.9/spring-tx-5.3.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.9/spring-beans-5.3.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.9/spring-core-5.3.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.3.9/spring-jcl-5.3.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

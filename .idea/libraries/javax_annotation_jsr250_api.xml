@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javax.annotation.jsr250.api" type="repository">
+    <properties maven-id="javax.annotation:jsr250-api:1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

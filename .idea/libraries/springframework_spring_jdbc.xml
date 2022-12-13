@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="springframework.spring.jdbc" type="repository">
+    <properties maven-id="org.springframework:spring-jdbc:5.3.16" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.3.16/spring-jdbc-5.3.16.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.16/spring-beans-5.3.16.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.16/spring-core-5.3.16.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.3.16/spring-jcl-5.3.16.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.3.16/spring-tx-5.3.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
