@@ -10,7 +10,9 @@ import java.util.*;
 public class App {
     public static void main(String[] args) throws IOException {
         final int NUMBER_OF_COLUMNS = 8;
-        String path = "C:\\Users\\Student\\IdeaProjects\\ProjectNov30\\.idea\\schedule_143122_3c5rqbpncx.xls";
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Please provide the absolute path of the provider schedule Excel file: ");
+        String path = scanner.nextLine();
         List<String[]> schedule = ExcelFileInteractor.getPhysicianSchedule(new FileInputStream(path));
 
         String scheduleName = schedule.get(0)[0];
