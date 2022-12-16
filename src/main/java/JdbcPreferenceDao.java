@@ -12,7 +12,7 @@ public class JdbcPreferenceDao {
         BasicDataSource dataSource = new BasicDataSource();
         dataSource.setUrl("jdbc:postgresql://localhost:5432/ProviderPreferences");
         dataSource.setUsername("postgres");
-        dataSource.setPassword("postgres1");
+        //dataSource.setPassword(whateverYourPasswordIs);
         return new JdbcTemplate(dataSource);
     }
 
